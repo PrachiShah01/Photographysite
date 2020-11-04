@@ -19,7 +19,7 @@ It provides the brief summary about your website. Google often displays the meta
 
 ### Heading Tags:
 Heading tags are also important to understand about your content.
-e.g. <h1>Fashion Photoshoot</h1>
+e.g. `<h1>Fashion Photoshoot</h1>`
 like wise here heading tags are inserted.
 
 ### Page speed:
